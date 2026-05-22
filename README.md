@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Singireddy Vaishnavi
 
 🎓 Dual Degree Student @ IIT Kharagpur (B.Tech + M.Tech)  
-Gen AI Developer | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🌐 Open Source Contributor
+Specialist @codeforces | 💻 Full-Stack Developer | 🤖 Software Developer | 🌐 Open Source Contributor
 
 ---
 
