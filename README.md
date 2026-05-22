@@ -86,7 +86,7 @@ Specialist @codeforces | 💻 Full-Stack Developer | 🤖 Software Developer | �
 
 ## 🏆 Achievements
 
-- LeetCode rating 1891; Knight badge; global rank 109 in Biweekly Contest 159  
+- LeetCode rating 1750; Knight badge; global rank 109 in Biweekly Contest 159 and specialist @ codeforces
 - Grant Winner of Hyundai Hope Scholarship by Hyundai Motor India Foundation  
 - Qualified PRMO 2018 and attended RMO  
 - Finalist at Overnight 2024 coding competition at IIT Kharagpur (Tech Fest Kshitij)  
